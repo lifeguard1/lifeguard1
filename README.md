@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikos Koutsounis</h1>
 <br>
-
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/GRVM7bxdn7yEFWTN6i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-chill-office-work-from-home-GRVM7bxdn7yEFWTN6i">via GIPHY</a></p>
 ## 🙋‍♂️ About Me
 
 - :mortar_board: I’m a student at  **[National & Kapodistrian University of Athens](https://www.uoa.gr/)** 
